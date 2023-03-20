@@ -1,4 +1,5 @@
-/*this program prints 
+/**
+ *this program prints 
  *it uses puts
  *returns 0
  */
