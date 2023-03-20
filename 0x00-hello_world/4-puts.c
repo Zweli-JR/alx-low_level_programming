@@ -1,3 +1,8 @@
+/*this program prints 
+ *it uses puts
+ *returns 0
+ */
+
 #include <stdio.h>
 
 int main(void)
