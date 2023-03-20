@@ -1,7 +1,7 @@
 /**
- *this program prints 
- *it uses puts
- *returns 0
+ *main - this is the main function
+ *
+ *Return: 0 When successful
  */
 
 #include <stdio.h>
