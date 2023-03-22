@@ -5,17 +5,12 @@
  *
  * Return: Always 0.
  */
-int main(void)
-{
-    print_alphabet_x10();
-    return (0);
-}
 
-void print_alphabet_x10()
+void print_alphabet_x10(void)
 {
 	int count = 0;
 	char letter = 'a';
-	while (count <= 10)
+	while (count < 10)
 	{
 		while (letter <= 'z')
 		{
@@ -23,5 +18,6 @@ void print_alphabet_x10()
 			letter++;
 		}
 		_putchar('\n');
+		count++;
 	}
 }
